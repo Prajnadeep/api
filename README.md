@@ -105,6 +105,7 @@ API for current cases, statewise, districtwise and historical data of India COVI
 
 **Mobile App [Android]**
 - [Covid-19 Tracker For Android](http://covidapp.in) (by Prabhakar Thota [@myinnos](https://github.com/myinnos))
+- [Covid-19 Assam](https://drive.google.com/file/d/1DqWEyF3aV20WgrG8sJYbuqNrbGw22IyB/view?usp=sharing) (by Prajnadeep Das [@Prajnadeep](https://github.com/Prajnadeep))
 
 **Other Trackers/Dashboards**
 
